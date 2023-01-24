@@ -9,4 +9,4 @@
 
 ### Languages and tools I know:
 
-<a href="node.js/standard/454x128.png"><img height=48 src="node.js/standard/454x128.png" alt="node.js standard"></a>
+
